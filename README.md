@@ -54,7 +54,6 @@ Lista dos serviços odontológicos oferecidos:
 
 ### 📸 Galeria de Sorrisos  
 Imagens ilustrativas demonstrando resultados e pacientes satisfeitos.
-<img width="1329" height="624" alt="imgGaleria" src="https://github.com/user-attachments/assets/570c4278-0dd0-4c0d-9e41-bb2433dff321" />
 <img width="1858" height="895" alt="img3" src="https://github.com/user-attachments/assets/e9e0d291-fd49-4543-b29b-ae5c8c134672" />
 
 ### 💬 Depoimentos  
