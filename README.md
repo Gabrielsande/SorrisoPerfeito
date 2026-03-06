@@ -40,7 +40,7 @@ A aplicação foi desenvolvida utilizando tags semânticas como:
 
 ### 🏠 Home  
 Apresentação do consultório com destaque dos principais serviços.
-<img width="1340" height="618" alt="imgHome" src="https://github.com/user-attachments/assets/f09029ac-5dd5-4f5f-abed-0092e7b52d05" />
+<img width="1862" height="887" alt="img1" src="https://github.com/user-attachments/assets/33a6f95a-87b6-485f-8db7-c091beb8d0a1" />
 
 
 ### 🦷 Serviços  
@@ -50,15 +50,18 @@ Lista dos serviços odontológicos oferecidos:
 - Implantes
 - Ortodontia
 <img width="1339" height="628" alt="imgServicos" src="https://github.com/user-attachments/assets/0ec80a9a-ab44-4ef3-b297-04bd5934a97f" />
+<img width="1885" height="863" alt="img2" src="https://github.com/user-attachments/assets/b0e7ae4f-305d-4681-9dbe-ed1b3feaa84b" />
 
 
 ### 📸 Galeria de Sorrisos  
 Imagens ilustrativas demonstrando resultados e pacientes satisfeitos.
 <img width="1329" height="624" alt="imgGaleria" src="https://github.com/user-attachments/assets/570c4278-0dd0-4c0d-9e41-bb2433dff321" />
+<img width="1858" height="895" alt="img3" src="https://github.com/user-attachments/assets/e9e0d291-fd49-4543-b29b-ae5c8c134672" />
 
 ### 💬 Depoimentos  
 Comentários fictícios simulando avaliações reais de pacientes.
 <img width="1338" height="631" alt="imgDepoimentos" src="https://github.com/user-attachments/assets/a9308414-3fd3-48d4-a96c-29728e8854a2" />
+<img width="1861" height="905" alt="img4" src="https://github.com/user-attachments/assets/54c3a8eb-7c2e-4292-a872-5b69ef5e1f2c" />
 
 ### 📩 Contato  
 Formulário contendo:
