@@ -58,7 +58,6 @@ Imagens ilustrativas demonstrando resultados e pacientes satisfeitos.
 
 ### 💬 Depoimentos  
 Comentários fictícios simulando avaliações reais de pacientes.
-<img width="1338" height="631" alt="imgDepoimentos" src="https://github.com/user-attachments/assets/a9308414-3fd3-48d4-a96c-29728e8854a2" />
 <img width="1861" height="905" alt="img4" src="https://github.com/user-attachments/assets/54c3a8eb-7c2e-4292-a872-5b69ef5e1f2c" />
 
 ### 📩 Contato  
