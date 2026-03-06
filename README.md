@@ -49,7 +49,6 @@ Lista dos serviços odontológicos oferecidos:
 - Clareamento
 - Implantes
 - Ortodontia
-<img width="1339" height="628" alt="imgServicos" src="https://github.com/user-attachments/assets/0ec80a9a-ab44-4ef3-b297-04bd5934a97f" />
 <img width="1885" height="863" alt="img2" src="https://github.com/user-attachments/assets/b0e7ae4f-305d-4681-9dbe-ed1b3feaa84b" />
 
 
