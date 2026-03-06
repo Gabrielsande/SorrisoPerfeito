@@ -66,7 +66,7 @@ Formulário contendo:
 - Nome
 - E-mail
 - Mensagem  
-<img width="1344" height="627" alt="imgEntreContato" src="https://github.com/user-attachments/assets/876d6c97-5c14-4a14-b6b0-fca91c7e8e8a" />
+<img width="1903" height="888" alt="imh5" src="https://github.com/user-attachments/assets/ac37ead7-c784-49f4-bebc-39352f21d411" />
 
 Validação feita com JavaScript para garantir que todos os campos estejam preenchidos antes do envio.
 
@@ -74,7 +74,7 @@ Validação feita com JavaScript para garantir que todos os campos estejam preen
 - Informações de contato  
 - Links para redes sociais  
 - Direitos autorais  
-<img width="1354" height="632" alt="imgFooter" src="https://github.com/user-attachments/assets/57456025-8fb4-4907-ba38-57a26ccf01c6" />
+<img width="1878" height="690" alt="img6" src="https://github.com/user-attachments/assets/4b7048c9-fab9-4238-b41b-12d7e958a0a0" />
 
 ---
 
